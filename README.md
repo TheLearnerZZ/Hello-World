@@ -1,2 +1,2 @@
 # Hello-World
- A Hello World Project
+ A Hello World Project made for learning
